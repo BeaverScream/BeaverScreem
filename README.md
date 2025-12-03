@@ -33,13 +33,12 @@ Built an intelligent recipe recommendation engine that translates user's natural
 * **Full-Stack:** Designed the pipeline from data cleaning to a responsive **React/Vite** frontend and a dedicated **Flask API** backend.
 * **Technologies:** Python, Flask, FAISS, Sentence Transformers, React.
 
-### 2️⃣ UBC Campus Explorer (Software Architecture/Full-Stack)
+### 2️⃣ UBC Campus Explorer (Software Architecture/Full-Stack) **[[Public Readme Link]](https://github.com/BeaverScream/UBC-Campus-Explorer-README)** (Code private due to academic policy)
 
 Engineered a full-stack system in **TypeScript** (React/Express) to ingest, query, and dynamically visualize complex campus room and building data on an interactive map.
 
 * **Architecture & Design:** Implemented a robust, layered architecture applying principles like **Facade** and **Strategy patterns** alongside a custom **Query Validation/Execution Engine**.
 * **Quality:** Demonstrated rigorous development practices through comprehensive **Unit/Integration Testing** (Mocha/Chai), directly applying principles learned from system validation experience.
-* **[Public Readme Link]** (Code private due to academic policy)
 * **Technologies:** TypeScript, React, Express/Node.js, Leaflet, Mocha/Chai.
 
 ### 3️⃣ Space Game Database Demo (Advanced SQL/Backend) **[[Repo Link]](https://github.com/BeaverScream/Space_resource_management_game_demo)**
